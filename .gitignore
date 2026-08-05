@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+data/raw/
+model/private/
+.rendered/
